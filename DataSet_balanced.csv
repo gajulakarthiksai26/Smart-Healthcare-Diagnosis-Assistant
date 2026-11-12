@@ -1,0 +1,421 @@
+Patient_ID,Name,Age,Gender,City,Description,Symptom_Duration,Severity,Disease_Name,Suggested_Department
+SHD0242,Aarav,24,Female,Jaipur,"sudden fever, nausea and body aches",5 days,Moderate,Dengue,General Medicine / Infectious Disease
+SHD0327,Rohan,28,Not specified,Jaipur,pain around cheeks with congestion and reduced sense of smell,1 week,Moderate,Sinusitis,ENT
+SHD0197,Rohan,30,Female,Bengaluru,"vomiting, diarrhea and stomach pain; symptoms began recently",3 days,Moderate,Gastroenteritis,General Medicine
+SHD0379,Sana,24,Male,Kochi,"fatigue, thirst and slow-healing minor wounds",Unknown,Moderate,Type 2 Diabetes,Endocrinology
+SHD0192,Diya,48,Male,Chennai,repeated severe coughing fits with a whooping sound,2 weeks,High,Whooping Cough,Pulmonology
+SHD0369,Vihaan,54,Not specified,Kochi,red spots that develop into itchy blisters,1 day,Mild,Chickenpox,Dermatology / General Medicine
+SHD0145,Reyansh,36,Female,Kochi,eye redness with sticky discharge and irritation,1 week,Moderate,Conjunctivitis,Ophthalmology
+SHD0325,Arjun,46,Female,Mumbai,eye redness with sticky discharge and irritation,2 days,Moderate,Conjunctivitis,Ophthalmology
+SHD0389,Aditya,74,Female,Chennai,worsening lower-right abdominal pain and loss of appetite,1 day,High,Appendicitis,Emergency / General Surgery
+SHD0009,Priya,43,Female,Bengaluru,itchy fluid-filled skin blisters with fever; symptoms began recently,3 days,Moderate,Chickenpox,Dermatology / General Medicine
+SHD0279,Meera,63,Not specified,Mumbai,red spots that develop into itchy blisters,1 day,Moderate,Chickenpox,Dermatology / General Medicine
+SHD0216,Ira,57,Not specified,Kochi,"sudden fever, joint swelling and muscle pain",1 week,Moderate,Chikungunya,General Medicine / Infectious Disease
+SHD0229,Nisha,65,Female,Hyderabad,"increased thirst, frequent urination and fatigue",Unknown,Moderate,Type 2 Diabetes,Endocrinology
+SHD0066,Aditya,37,Female,Bengaluru,fever with persistent pain in hands and feet,4 days,High,Chikungunya,General Medicine / Infectious Disease
+SHD0237,Aditya,50,Female,Kochi,"nasal blockage, facial tenderness and headache; symptoms affect daily activities",2 weeks,Mild,Sinusitis,ENT
+SHD0132,Reyansh,18,Female,Jaipur,long-lasting cough with difficulty catching breath,2 weeks,Moderate,Whooping Cough,Pulmonology
+SHD0083,Rahul,41,Not specified,Hyderabad,upper abdominal burning and acidic taste in mouth,1 week,Mild,Acid Reflux,Gastroenterology
+SHD0090,Arjun,64,Male,Mumbai,waves of flank pain with nausea and blood in urine,1 day,High,Kidney Stone,Urology
+SHD0200,Ira,64,Female,Mumbai,repeated high blood pressure readings during check-ups,Several weeks,Mild,Hypertension,Cardiology / General Medicine
+SHD0202,Aarav,24,Female,Jaipur,"fatigue, weakness, pale skin and shortness of breath on exertion",Several months,Moderate,Iron Deficiency Anemia,General Medicine / Hematology
+SHD0218,Diya,41,Not specified,Pune,"fatigue, nausea, abdominal discomfort and yellowing of eyes",2 weeks,High,Hepatitis A,Gastroenterology
+SHD0120,Aarav,71,Not specified,Chennai,severe side or back pain that may spread toward the groin; symptoms began recently,1 day,High,Kidney Stone,Urology
+SHD0326,Kavya,29,Not specified,Chennai,mild to moderate head pressure after a stressful day,6 hours,Mild,Tension Headache,General Medicine
+SHD0232,Diya,39,Male,Hyderabad,"tiredness, dizziness and reduced exercise tolerance",Unknown,Moderate,Iron Deficiency Anemia,General Medicine / Hematology
+SHD0228,Reyansh,62,Not specified,Jaipur,"recurrent cough and wheezing, especially at night",Intermittent,Moderate,Asthma,Pulmonology
+SHD0364,Kavya,51,Male,Hyderabad,long-lasting cough with chest discomfort and night sweats,3 weeks,Moderate,Tuberculosis,Pulmonology
+SHD0275,Priya,56,Female,Delhi,"fever, dry cough, tiredness and loss of smell",1 week,Moderate,COVID-19,General Medicine
+SHD0311,Kabir,18,Female,Bengaluru,jaw swelling with headache and low fever; symptoms have been recurring,1 week,Moderate,Mumps,General Medicine
+SHD0250,Arjun,51,Female,Pune,"cough, red eyes and rash starting on the face",4 days,Moderate,Measles,General Medicine / Infectious Disease
+SHD0129,Meera,28,Not specified,Kochi,red spots that develop into itchy blisters,1 day,Moderate,Chickenpox,Dermatology / General Medicine
+SHD0207,Kabir,44,Male,Chennai,pain around cheeks with congestion and reduced sense of smell,2 weeks,Mild,Sinusitis,ENT
+SHD0223,Arjun,66,Female,Chennai,"runny nose, sneezing, sore throat and mild cough",3 days,Mild,Common Cold,General Medicine
+SHD0320,Reyansh,21,Male,Mumbai,repeated high blood pressure readings during check-ups,New finding,Moderate,Hypertension,Cardiology / General Medicine
+SHD0098,Reyansh,19,Male,Mumbai,"fatigue, nausea, abdominal discomfort and yellowing of eyes; symptoms have been recurring",2 weeks,High,Hepatitis A,Gastroenterology
+SHD0116,Ishaan,76,Not specified,Bengaluru,band-like headache with tight shoulder muscles; symptoms affect daily activities,6 hours,Moderate,Tension Headache,General Medicine
+SHD0008,Dev,47,Male,Pune,"fatigue, nausea, abdominal discomfort and yellowing of eyes",2 weeks,High,Hepatitis A,Gastroenterology
+SHD0284,Kabir,46,Female,Hyderabad,"high fever, fatigue, headache and muscle pain",2 days,Moderate,Influenza,General Medicine
+SHD0329,Diya,36,Not specified,Bengaluru,abdominal pain moving toward the lower right side with nausea; symptoms have been recurring,6 hours,High,Appendicitis,Emergency / General Surgery
+SHD0197,Rohan,30,Female,Bengaluru,"vomiting, diarrhea and stomach pain; symptoms began recently",3 days,Moderate,Gastroenteritis,General Medicine
+SHD0211,Kavya,74,Female,Chennai,"fever with chills, sweating, headache and body aches",5 days,High,Malaria,General Medicine / Infectious Disease
+SHD0249,Arjun,66,Female,Mumbai,red spots that develop into itchy blisters,1 week,Mild,Chickenpox,Dermatology / General Medicine
+SHD0069,Priya,79,Male,Hyderabad,red spots that develop into itchy blisters,1 day,Mild,Chickenpox,Dermatology / General Medicine
+SHD0072,Aditi,34,Not specified,Mumbai,persistent coughing spells followed by vomiting; symptoms began recently,2 weeks,Moderate,Whooping Cough,Pulmonology
+SHD0389,Aditya,74,Female,Chennai,worsening lower-right abdominal pain and loss of appetite,1 day,High,Appendicitis,Emergency / General Surgery
+SHD0103,Aditya,42,Male,Mumbai,"sore throat, watery eyes and a runny nose",2 days,Moderate,Common Cold,General Medicine
+SHD0319,Meera,54,Not specified,Kochi,"increased thirst, frequent urination and fatigue",Several months,Mild,Type 2 Diabetes,Endocrinology
+SHD0392,Arjun,23,Not specified,Hyderabad,"high fever, severe headache, pain behind the eyes and joint pain; symptoms began recently",5 days,High,Dengue,General Medicine / Infectious Disease
+SHD0191,Meera,75,Female,Bengaluru,"swollen painful cheeks, fever and pain while chewing",1 week,Moderate,Mumps,General Medicine
+SHD0319,Meera,54,Not specified,Kochi,"increased thirst, frequent urination and fatigue",Several months,Mild,Type 2 Diabetes,Endocrinology
+SHD0106,Arjun,64,Male,Bengaluru,"itchy eyes, nasal congestion and repeated sneezing",3 days,Mild,Allergic Rhinitis,ENT / Allergy
+SHD0399,Kabir,55,Male,Hyderabad,red spots that develop into itchy blisters,1 day,Moderate,Chickenpox,Dermatology / General Medicine
+SHD0088,Ishaan,43,Male,Kochi,"cough, chills, fatigue and pain when breathing deeply",1 week,High,Pneumonia,Pulmonology
+SHD0203,Meera,56,Male,Pune,heartburn when lying down and regurgitation; symptoms began recently,Recurring,Moderate,Acid Reflux,Gastroenterology
+SHD0376,Ananya,80,Male,Mumbai,"itchy eyes, nasal congestion and repeated sneezing",1 week,Mild,Allergic Rhinitis,ENT / Allergy
+SHD0201,Vihaan,28,Female,Delhi,urinary urgency with cloudy urine and pelvic discomfort,2 days,Moderate,Urinary Tract Infection,Urology / General Medicine
+SHD0100,Meera,80,Not specified,Hyderabad,high fever followed by a red skin rash,4 days,Moderate,Measles,General Medicine / Infectious Disease
+SHD0195,Ira,70,Not specified,Kochi,recurrent severe headache with nausea,8 hours,High,Migraine,Neurology
+SHD0310,Kabir,35,Male,Hyderabad,"fever, cough, runny nose, red eyes and widespread rash",1 week,High,Measles,General Medicine / Infectious Disease
+SHD0039,Kabir,38,Not specified,Mumbai,red spots that develop into itchy blisters,1 day,Mild,Chickenpox,Dermatology / General Medicine
+SHD0099,Rohan,25,Male,Mumbai,itchy fluid-filled skin blisters with fever,1 week,Moderate,Chickenpox,Dermatology / General Medicine
+SHD0064,Dev,61,Female,Delhi,long-lasting cough with chest discomfort and night sweats,Several months,Moderate,Tuberculosis,Pulmonology
+SHD0067,Ishaan,69,Female,Kochi,frequent watery stools and intense thirst,6 hours,High,Cholera,Emergency / General Medicine
+SHD0316,Meera,34,Female,Chennai,"itchy eyes, nasal congestion and repeated sneezing",1 day,Mild,Allergic Rhinitis,ENT / Allergy
+SHD0333,Rohan,46,Not specified,Mumbai,gradually increasing fever with fatigue; symptoms affect daily activities,4 days,High,Typhoid Fever,General Medicine / Infectious Disease
+SHD0227,Ishaan,80,Male,Chennai,"vomiting, diarrhea and stomach pain",2 days,Moderate,Gastroenteritis,General Medicine
+SHD0379,Sana,24,Male,Kochi,"fatigue, thirst and slow-healing minor wounds",Unknown,Moderate,Type 2 Diabetes,Endocrinology
+SHD0280,Rahul,20,Male,Chennai,"fever, cough, runny nose, red eyes and widespread rash",4 days,High,Measles,General Medicine / Infectious Disease
+SHD0198,Dev,18,Male,Chennai,breathlessness and chest tightness after exercise,Recurring,Moderate,Asthma,Pulmonology
+SHD0377,Vihaan,21,Not specified,Chennai,"loose stools, abdominal discomfort and nausea",2 days,Moderate,Gastroenteritis,General Medicine
+SHD0139,Ananya,61,Male,Kochi,"fatigue, thirst and slow-healing minor wounds; symptoms have been recurring",Several months,Moderate,Type 2 Diabetes,Endocrinology
+SHD0313,Priya,55,Male,Hyderabad,"runny nose, sneezing, sore throat and mild cough",2 days,Moderate,Common Cold,General Medicine
+SHD0094,Ishaan,69,Female,Delhi,"persistent cough, night sweats, weight loss and fever",Several months,Moderate,Tuberculosis,Pulmonology
+SHD0371,Sana,23,Female,Mumbai,"swollen painful cheeks, fever and pain while chewing",2 days,Moderate,Mumps,General Medicine
+SHD0070,Arjun,45,Not specified,Pune,high fever followed by a red skin rash,2 days,Moderate,Measles,General Medicine / Infectious Disease
+SHD0286,Aditya,43,Male,Bengaluru,runny nose and itchy throat after dust exposure,3 days,Mild,Allergic Rhinitis,ENT / Allergy
+SHD0228,Reyansh,62,Not specified,Jaipur,"recurrent cough and wheezing, especially at night",Intermittent,Moderate,Asthma,Pulmonology
+SHD0225,Meera,72,Female,Delhi,one-sided headache with visual sensitivity; symptoms affect daily activities,1 day,Moderate,Migraine,Neurology
+SHD0126,Nisha,31,Not specified,Pune,fever with persistent pain in hands and feet; symptoms affect daily activities,2 days,Moderate,Chikungunya,General Medicine / Infectious Disease
+SHD0192,Diya,48,Male,Chennai,repeated severe coughing fits with a whooping sound,2 weeks,High,Whooping Cough,Pulmonology
+SHD0372,Vihaan,55,Female,Hyderabad,repeated severe coughing fits with a whooping sound,1 week,Moderate,Whooping Cough,Pulmonology
+SHD0335,Aditi,34,Not specified,Bengaluru,"runny nose, headache and fatigue after exposure",1 week,Mild,COVID-19,General Medicine
+SHD0372,Vihaan,55,Female,Hyderabad,repeated severe coughing fits with a whooping sound,1 week,Moderate,Whooping Cough,Pulmonology
+SHD0196,Ananya,39,Not specified,Bengaluru,runny nose and itchy throat after dust exposure,1 day,Mild,Allergic Rhinitis,ENT / Allergy
+SHD0316,Meera,34,Female,Chennai,"itchy eyes, nasal congestion and repeated sneezing",1 day,Mild,Allergic Rhinitis,ENT / Allergy
+SHD0215,Kavya,70,Female,Hyderabad,"sore throat, cough, fever and body aches",1 week,High,COVID-19,General Medicine
+SHD0385,Ira,21,Male,Hyderabad,eye redness with sticky discharge and irritation,1 day,Mild,Conjunctivitis,Ophthalmology
+SHD0329,Diya,36,Not specified,Bengaluru,abdominal pain moving toward the lower right side with nausea; symptoms have been recurring,6 hours,High,Appendicitis,Emergency / General Surgery
+SHD0276,Kavya,58,Male,Chennai,fever with severe joint pain and skin rash,2 days,High,Chikungunya,General Medicine / Infectious Disease
+SHD0075,Ira,75,Not specified,Chennai,recurrent severe headache with nausea,1 day,Moderate,Migraine,Neurology
+SHD0199,Ananya,45,Female,Chennai,"increased thirst, frequent urination and fatigue",Unknown,Moderate,Type 2 Diabetes,Endocrinology
+SHD0327,Rohan,28,Not specified,Jaipur,pain around cheeks with congestion and reduced sense of smell,1 week,Moderate,Sinusitis,ENT
+SHD0182,Ira,58,Female,Chennai,"high fever, severe headache, pain behind the eyes and joint pain",1 day,Moderate,Dengue,General Medicine / Infectious Disease
+SHD0300,Sana,43,Female,Chennai,sharp back-side pain and urinary discomfort; symptoms have been recurring,1 day,High,Kidney Stone,Urology
+SHD0290,Aditya,36,Female,Kochi,repeated high blood pressure readings during check-ups,Several weeks,Mild,Hypertension,Cardiology / General Medicine
+SHD0194,Ishaan,74,Male,Mumbai,"fever, sore throat, cough and marked tiredness",4 days,Moderate,Influenza,General Medicine
+SHD0383,Aditi,79,Female,Pune,heartburn when lying down and regurgitation,Recurring,Mild,Acid Reflux,Gastroenterology
+SHD0318,Ananya,29,Not specified,Mumbai,"recurrent cough and wheezing, especially at night",1 day,High,Asthma,Pulmonology
+SHD0105,Rahul,61,Male,Kochi,one-sided headache with visual sensitivity; symptoms began recently,1 day,High,Migraine,Neurology
+SHD0201,Vihaan,28,Female,Delhi,urinary urgency with cloudy urine and pelvic discomfort,2 days,Moderate,Urinary Tract Infection,Urology / General Medicine
+SHD0304,Meera,27,Not specified,Jaipur,long-lasting cough with chest discomfort and night sweats,3 weeks,Moderate,Tuberculosis,Pulmonology
+SHD0181,Ananya,77,Not specified,Chennai,recurring fever episodes with chills and fatigue; symptoms have been recurring,5 days,Moderate,Malaria,General Medicine / Infectious Disease
+SHD0376,Ananya,80,Male,Mumbai,"itchy eyes, nasal congestion and repeated sneezing",1 week,Mild,Allergic Rhinitis,ENT / Allergy
+SHD0213,Ira,70,Female,Pune,fever with loss of appetite and digestive discomfort,4 days,Moderate,Typhoid Fever,General Medicine / Infectious Disease
+SHD0210,Meera,51,Female,Hyderabad,severe side or back pain that may spread toward the groin,2 hours,High,Kidney Stone,Urology
+SHD0281,Rahul,50,Not specified,Hyderabad,painful swelling near the jaw and tiredness; symptoms began recently,4 days,Moderate,Mumps,General Medicine
+SHD0323,Dev,44,Male,Kochi,upper abdominal burning and acidic taste in mouth,After meals,Mild,Acid Reflux,Gastroenterology
+SHD0226,Tara,50,Male,Hyderabad,runny nose and itchy throat after dust exposure,1 week,Mild,Allergic Rhinitis,ENT / Allergy
+SHD0111,Reyansh,31,Not specified,Hyderabad,painful urination and frequent small amounts of urine,1 day,High,Urinary Tract Infection,Urology / General Medicine
+SHD0155,Nisha,64,Male,Chennai,"runny nose, headache and fatigue after exposure",2 days,Moderate,COVID-19,General Medicine
+SHD0200,Ira,64,Female,Mumbai,repeated high blood pressure readings during check-ups,Several weeks,Mild,Hypertension,Cardiology / General Medicine
+SHD0204,Aditi,63,Not specified,Delhi,inflamed itchy rash after contact with a new soap; symptoms have been recurring,Recurring,Moderate,Dermatitis,Dermatology
+SHD0035,Aarav,66,Male,Delhi,"fever, dry cough, tiredness and loss of smell",4 days,Moderate,COVID-19,General Medicine
+SHD0097,Vihaan,55,Not specified,Chennai,sudden watery diarrhea with muscle cramps,2 days,High,Cholera,Emergency / General Medicine
+SHD0328,Kabir,25,Male,Pune,"cough, chills, fatigue and pain when breathing deeply",5 days,Moderate,Pneumonia,Pulmonology
+SHD0238,Tara,44,Male,Hyderabad,"cough, fever, chest discomfort and shortness of breath",1 week,Moderate,Pneumonia,Pulmonology
+SHD0205,Rohan,54,Female,Pune,red itchy eye with watery discharge,2 days,Moderate,Conjunctivitis,Ophthalmology
+SHD0117,Nisha,68,Female,Pune,"nasal blockage, facial tenderness and headache",1 week,Mild,Sinusitis,ENT
+SHD0206,Priya,21,Male,Jaipur,band-like headache with tight shoulder muscles; symptoms have been recurring,1 day,Moderate,Tension Headache,General Medicine
+SHD0153,Aditi,58,Not specified,Delhi,gradually increasing fever with fatigue; symptoms have been recurring,4 days,High,Typhoid Fever,General Medicine / Infectious Disease
+SHD0316,Meera,34,Female,Chennai,"itchy eyes, nasal congestion and repeated sneezing",1 day,Mild,Allergic Rhinitis,ENT / Allergy
+SHD0203,Meera,56,Male,Pune,heartburn when lying down and regurgitation; symptoms began recently,Recurring,Moderate,Acid Reflux,Gastroenterology
+SHD0320,Reyansh,21,Male,Mumbai,repeated high blood pressure readings during check-ups,New finding,Moderate,Hypertension,Cardiology / General Medicine
+SHD0183,Ananya,77,Female,Delhi,"persistent fever, weakness, headache and abdominal discomfort",1 week,Moderate,Typhoid Fever,General Medicine / Infectious Disease
+SHD0217,Diya,40,Not specified,Jaipur,sudden watery diarrhea with muscle cramps,6 hours,High,Cholera,Emergency / General Medicine
+SHD0367,Aarav,29,Not specified,Chennai,frequent watery stools and intense thirst,1 day,High,Cholera,Emergency / General Medicine
+SHD0394,Ananya,19,Male,Pune,cough lasting several weeks with fatigue and loss of appetite,3 weeks,High,Tuberculosis,Pulmonology
+SHD0119,Diya,21,Not specified,Pune,abdominal pain moving toward the lower right side with nausea; symptoms affect daily activities,6 hours,High,Appendicitis,Emergency / General Surgery
+SHD0272,Rahul,74,Male,Jaipur,"fever with muscle pain, rash and marked fatigue",1 day,High,Dengue,General Medicine / Infectious Disease
+SHD0201,Vihaan,28,Female,Delhi,urinary urgency with cloudy urine and pelvic discomfort,2 days,Moderate,Urinary Tract Infection,Urology / General Medicine
+SHD0133,Rahul,32,Female,Chennai,"sore throat, watery eyes and a runny nose",2 days,Mild,Common Cold,General Medicine
+SHD0373,Ira,46,Male,Mumbai,"nasal congestion, sneezing and a mild headache",3 days,Moderate,Common Cold,General Medicine
+SHD0221,Kabir,61,Male,Hyderabad,painful swelling near the jaw and tiredness,1 week,Moderate,Mumps,General Medicine
+SHD0010,Nisha,23,Female,Pune,"fever, cough, runny nose, red eyes and widespread rash",2 days,High,Measles,General Medicine / Infectious Disease
+SHD0332,Kabir,41,Male,Bengaluru,"high fever, severe headache, pain behind the eyes and joint pain; symptoms affect daily activities",5 days,High,Dengue,General Medicine / Infectious Disease
+SHD0114,Aditi,45,Not specified,Bengaluru,dry cracked skin and local irritation,1 week,Moderate,Dermatitis,Dermatology
+SHD0079,Arjun,57,Male,Hyderabad,"frequent urination, increased hunger and blurred vision",Unknown,Moderate,Type 2 Diabetes,Endocrinology
+SHD0388,Meera,44,Male,Pune,"cough, fever, chest discomfort and shortness of breath",1 week,Moderate,Pneumonia,Pulmonology
+SHD0104,Aditya,38,Not specified,Mumbai,"fever, sore throat, cough and marked tiredness; symptoms affect daily activities",2 days,Moderate,Influenza,General Medicine
+SHD0092,Rahul,21,Female,Pune,"sudden fever, nausea and body aches; symptoms have been recurring",1 day,High,Dengue,General Medicine / Infectious Disease
+SHD0195,Ira,70,Not specified,Kochi,recurrent severe headache with nausea,8 hours,High,Migraine,Neurology
+SHD0307,Aditi,56,Male,Bengaluru,sudden watery diarrhea with muscle cramps,6 hours,High,Cholera,Emergency / General Medicine
+SHD0317,Ananya,63,Female,Hyderabad,"loose stools, abdominal discomfort and nausea; symptoms began recently",3 days,High,Gastroenteritis,General Medicine
+SHD0308,Reyansh,75,Male,Hyderabad,"fatigue, nausea, abdominal discomfort and yellowing of eyes",1 week,Moderate,Hepatitis A,Gastroenterology
+SHD0324,Ira,35,Female,Jaipur,inflamed itchy rash after contact with a new soap,2 days,Moderate,Dermatitis,Dermatology
+SHD0227,Ishaan,80,Male,Chennai,"vomiting, diarrhea and stomach pain",2 days,Moderate,Gastroenteritis,General Medicine
+SHD0189,Aditya,55,Male,Jaipur,itchy rash appearing in crops with mild fever,1 day,Moderate,Chickenpox,Dermatology / General Medicine
+SHD0077,Meera,56,Male,Chennai,"loose stools, abdominal discomfort and nausea",1 day,Moderate,Gastroenteritis,General Medicine
+SHD0324,Ira,35,Female,Jaipur,inflamed itchy rash after contact with a new soap,2 days,Moderate,Dermatitis,Dermatology
+SHD0159,Aditya,39,Female,Delhi,red spots that develop into itchy blisters,1 day,Mild,Chickenpox,Dermatology / General Medicine
+SHD0230,Diya,58,Female,Pune,repeated high blood pressure readings during check-ups,New finding,Moderate,Hypertension,Cardiology / General Medicine
+SHD0193,Nisha,75,Female,Bengaluru,"runny nose, sneezing, sore throat and mild cough; symptoms affect daily activities",2 days,Mild,Common Cold,General Medicine
+SHD0314,Rahul,30,Male,Bengaluru,"sudden fever, body aches, chills and dry cough",4 days,High,Influenza,General Medicine
+SHD0330,Sana,21,Not specified,Bengaluru,severe side or back pain that may spread toward the groin,6 hours,High,Kidney Stone,Urology
+SHD0210,Meera,51,Female,Hyderabad,severe side or back pain that may spread toward the groin,2 hours,High,Kidney Stone,Urology
+SHD0207,Kabir,44,Male,Chennai,pain around cheeks with congestion and reduced sense of smell,2 weeks,Mild,Sinusitis,ENT
+SHD0229,Nisha,65,Female,Hyderabad,"increased thirst, frequent urination and fatigue",Unknown,Moderate,Type 2 Diabetes,Endocrinology
+SHD0274,Diya,45,Not specified,Mumbai,"persistent cough, night sweats, weight loss and fever; symptoms affect daily activities",1 month,High,Tuberculosis,Pulmonology
+SHD0273,Reyansh,66,Female,Jaipur,fever with loss of appetite and digestive discomfort,4 days,Moderate,Typhoid Fever,General Medicine / Infectious Disease
+SHD0327,Rohan,28,Not specified,Jaipur,pain around cheeks with congestion and reduced sense of smell,1 week,Moderate,Sinusitis,ENT
+SHD0386,Diya,39,Female,Jaipur,dull pressure on both sides of the head and neck tightness; symptoms affect daily activities,6 hours,Moderate,Tension Headache,General Medicine
+SHD0299,Sana,71,Not specified,Pune,abdominal pain moving toward the lower right side with nausea; symptoms began recently,6 hours,High,Appendicitis,Emergency / General Surgery
+SHD0235,Rahul,20,Not specified,Pune,red itchy eye with watery discharge,1 day,Moderate,Conjunctivitis,Ophthalmology
+SHD0334,Aditi,66,Female,Bengaluru,long-lasting cough with chest discomfort and night sweats,1 month,Moderate,Tuberculosis,Pulmonology
+SHD0287,Ananya,62,Female,Chennai,"vomiting, diarrhea and stomach pain",2 days,Moderate,Gastroenteritis,General Medicine
+SHD0112,Ira,28,Male,Delhi,"tiredness, dizziness and reduced exercise tolerance",Several weeks,Moderate,Iron Deficiency Anemia,General Medicine / Hematology
+SHD0191,Meera,75,Female,Bengaluru,"swollen painful cheeks, fever and pain while chewing",1 week,Moderate,Mumps,General Medicine
+SHD0365,Diya,21,Male,Jaipur,"runny nose, headache and fatigue after exposure",2 days,Moderate,COVID-19,General Medicine
+SHD0187,Vihaan,80,Female,Jaipur,"profuse watery diarrhea, vomiting and dehydration",2 days,High,Cholera,Emergency / General Medicine
+SHD0087,Ira,47,Male,Jaipur,"nasal blockage, facial tenderness and headache",1 week,Moderate,Sinusitis,ENT
+SHD0380,Ananya,35,Male,Bengaluru,repeated high blood pressure readings during check-ups,New finding,Mild,Hypertension,Cardiology / General Medicine
+SHD0143,Aditi,42,Not specified,Chennai,burning sensation in chest after meals and sour taste,1 week,Mild,Acid Reflux,Gastroenterology
+SHD0311,Kabir,18,Female,Bengaluru,jaw swelling with headache and low fever; symptoms have been recurring,1 week,Moderate,Mumps,General Medicine
+SHD0315,Aarav,51,Female,Bengaluru,throbbing headache with nausea and sensitivity to light; symptoms began recently,4 hours,High,Migraine,Neurology
+SHD0234,Arjun,67,Male,Bengaluru,itchy red skin with dry patches,2 days,Mild,Dermatitis,Dermatology
+SHD0212,Sana,20,Not specified,Bengaluru,"sudden fever, nausea and body aches",1 day,Moderate,Dengue,General Medicine / Infectious Disease
+SHD0203,Meera,56,Male,Pune,heartburn when lying down and regurgitation; symptoms began recently,Recurring,Moderate,Acid Reflux,Gastroenterology
+SHD0194,Ishaan,74,Male,Mumbai,"fever, sore throat, cough and marked tiredness",4 days,Moderate,Influenza,General Medicine
+SHD0247,Tara,28,Female,Bengaluru,frequent watery stools and intense thirst,1 day,High,Cholera,Emergency / General Medicine
+SHD0309,Aditya,63,Not specified,Jaipur,red spots that develop into itchy blisters,3 days,Moderate,Chickenpox,Dermatology / General Medicine
+SHD0093,Ishaan,20,Male,Pune,"persistent fever, weakness, headache and abdominal discomfort",2 weeks,Moderate,Typhoid Fever,General Medicine / Infectious Disease
+SHD0109,Meera,29,Not specified,Delhi,"fatigue, thirst and slow-healing minor wounds",Several months,Mild,Type 2 Diabetes,Endocrinology
+SHD0234,Arjun,67,Male,Bengaluru,itchy red skin with dry patches,2 days,Mild,Dermatitis,Dermatology
+SHD0381,Aditya,47,Female,Mumbai,urinary urgency with cloudy urine and pelvic discomfort,2 days,Moderate,Urinary Tract Infection,Urology / General Medicine
+SHD0232,Diya,39,Male,Hyderabad,"tiredness, dizziness and reduced exercise tolerance",Unknown,Moderate,Iron Deficiency Anemia,General Medicine / Hematology
+SHD0150,Aditi,22,Not specified,Hyderabad,sharp back-side pain and urinary discomfort,1 day,Moderate,Kidney Stone,Urology
+SHD0231,Meera,34,Female,Jaipur,"burning urination, frequent urge to urinate and lower abdominal discomfort",2 days,High,Urinary Tract Infection,Urology / General Medicine
+SHD0282,Meera,25,Not specified,Hyderabad,long-lasting cough with difficulty catching breath; symptoms began recently,1 week,Moderate,Whooping Cough,Pulmonology
+SHD0246,Vihaan,72,Female,Pune,fever with persistent pain in hands and feet,4 days,High,Chikungunya,General Medicine / Infectious Disease
+SHD0224,Ananya,68,Female,Kochi,"sudden fever, body aches, chills and dry cough; symptoms affect daily activities",2 days,High,Influenza,General Medicine
+SHD0084,Ira,43,Male,Mumbai,dry cracked skin and local irritation,2 days,Mild,Dermatitis,Dermatology
+SHD0188,Dev,42,Not specified,Hyderabad,nausea with upper abdominal discomfort and jaundice,2 weeks,High,Hepatitis A,Gastroenterology
+SHD0032,Vihaan,34,Male,Chennai,"sudden fever, nausea and body aches; symptoms have been recurring",1 day,High,Dengue,General Medicine / Infectious Disease
+SHD0383,Aditi,79,Female,Pune,heartburn when lying down and regurgitation,Recurring,Mild,Acid Reflux,Gastroenterology
+SHD0396,Tara,73,Not specified,Chennai,fever with severe joint pain and skin rash,2 days,Moderate,Chikungunya,General Medicine / Infectious Disease
+SHD0185,Dev,75,Male,Bengaluru,"fever, dry cough, tiredness and loss of smell",1 week,Mild,COVID-19,General Medicine
+SHD0322,Rahul,47,Male,Chennai,"tiredness, dizziness and reduced exercise tolerance",Several months,Mild,Iron Deficiency Anemia,General Medicine / Hematology
+SHD0313,Priya,55,Male,Hyderabad,"runny nose, sneezing, sore throat and mild cough",2 days,Moderate,Common Cold,General Medicine
+SHD0096,Kavya,26,Male,Mumbai,"sudden fever, joint swelling and muscle pain; symptoms affect daily activities",2 days,High,Chikungunya,General Medicine / Infectious Disease
+SHD0362,Dev,57,Male,Hyderabad,"fever with muscle pain, rash and marked fatigue; symptoms have been recurring",5 days,Moderate,Dengue,General Medicine / Infectious Disease
+SHD0238,Tara,44,Male,Hyderabad,"cough, fever, chest discomfort and shortness of breath",1 week,Moderate,Pneumonia,Pulmonology
+SHD0303,Ira,28,Not specified,Delhi,fever with loss of appetite and digestive discomfort; symptoms have been recurring,4 days,Moderate,Typhoid Fever,General Medicine / Infectious Disease
+SHD0186,Dev,61,Male,Jaipur,"sudden fever, joint swelling and muscle pain",4 days,High,Chikungunya,General Medicine / Infectious Disease
+SHD0004,Aditya,54,Not specified,Pune,"persistent cough, night sweats, weight loss and fever",Several months,Moderate,Tuberculosis,Pulmonology
+SHD0095,Kabir,46,Male,Delhi,"fever, dry cough, tiredness and loss of smell",4 days,Moderate,COVID-19,General Medicine
+SHD0076,Vihaan,63,Female,Chennai,"sneezing, itchy nose, watery eyes and clear nasal discharge",1 day,Moderate,Allergic Rhinitis,ENT / Allergy
+SHD0089,Vihaan,55,Male,Pune,abdominal pain with vomiting and tenderness,6 hours,High,Appendicitis,Emergency / General Surgery
+SHD0152,Aditi,53,Not specified,Hyderabad,"high fever, severe headache, pain behind the eyes and joint pain; symptoms affect daily activities",5 days,Moderate,Dengue,General Medicine / Infectious Disease
+SHD0193,Nisha,75,Female,Bengaluru,"runny nose, sneezing, sore throat and mild cough; symptoms affect daily activities",2 days,Mild,Common Cold,General Medicine
+SHD0382,Vihaan,75,Female,Hyderabad,"fatigue, weakness, pale skin and shortness of breath on exertion; symptoms affect daily activities",Several months,Moderate,Iron Deficiency Anemia,General Medicine / Hematology
+SHD0140,Reyansh,50,Female,Pune,often no symptoms; elevated blood pressure found during screening; symptoms have been recurring,Unknown,Mild,Hypertension,Cardiology / General Medicine
+SHD0278,Ira,52,Male,Mumbai,"fatigue, nausea, abdominal discomfort and yellowing of eyes; symptoms have been recurring",1 week,Moderate,Hepatitis A,Gastroenterology
+SHD0305,Nisha,49,Female,Chennai,"runny nose, headache and fatigue after exposure",1 week,High,COVID-19,General Medicine
+SHD0146,Arjun,24,Male,Jaipur,dull pressure on both sides of the head and neck tightness; symptoms began recently,6 hours,Mild,Tension Headache,General Medicine
+SHD0291,Kavya,20,Male,Chennai,"burning urination, frequent urge to urinate and lower abdominal discomfort",5 days,High,Urinary Tract Infection,Urology / General Medicine
+SHD0210,Meera,51,Female,Hyderabad,severe side or back pain that may spread toward the groin,2 hours,High,Kidney Stone,Urology
+SHD0330,Sana,21,Not specified,Bengaluru,severe side or back pain that may spread toward the groin,6 hours,High,Kidney Stone,Urology
+SHD0237,Aditya,50,Female,Kochi,"nasal blockage, facial tenderness and headache; symptoms affect daily activities",2 weeks,Mild,Sinusitis,ENT
+SHD0331,Kabir,48,Not specified,Delhi,recurring fever episodes with chills and fatigue,2 days,High,Malaria,General Medicine / Infectious Disease
+SHD0223,Arjun,66,Female,Chennai,"runny nose, sneezing, sore throat and mild cough",3 days,Mild,Common Cold,General Medicine
+SHD0062,Aarav,69,Not specified,Hyderabad,"fever with muscle pain, rash and marked fatigue",5 days,Moderate,Dengue,General Medicine / Infectious Disease
+SHD0387,Ishaan,21,Female,Pune,"nasal blockage, facial tenderness and headache",4 days,Mild,Sinusitis,ENT
+SHD0006,Aditya,77,Male,Hyderabad,fever with severe joint pain and skin rash,2 days,Moderate,Chikungunya,General Medicine / Infectious Disease
+SHD0154,Ananya,61,Female,Mumbai,long-lasting cough with chest discomfort and night sweats,1 month,High,Tuberculosis,Pulmonology
+SHD0074,Ira,55,Not specified,Mumbai,"high fever, fatigue, headache and muscle pain; symptoms have been recurring",4 days,Moderate,Influenza,General Medicine
+SHD0202,Aarav,24,Female,Jaipur,"fatigue, weakness, pale skin and shortness of breath on exertion",Several months,Moderate,Iron Deficiency Anemia,General Medicine / Hematology
+SHD0244,Ananya,69,Male,Jaipur,cough lasting several weeks with fatigue and loss of appetite,1 month,High,Tuberculosis,Pulmonology
+SHD0214,Dev,36,Not specified,Hyderabad,cough lasting several weeks with fatigue and loss of appetite,Several months,Moderate,Tuberculosis,Pulmonology
+SHD0130,Meera,38,Not specified,Chennai,high fever followed by a red skin rash,1 week,Moderate,Measles,General Medicine / Infectious Disease
+SHD0328,Kabir,25,Male,Pune,"cough, chills, fatigue and pain when breathing deeply",5 days,Moderate,Pneumonia,Pulmonology
+SHD0338,Aarav,39,Male,Delhi,"fatigue, nausea, abdominal discomfort and yellowing of eyes; symptoms have been recurring",3 weeks,High,Hepatitis A,Gastroenterology
+SHD0400,Aarav,27,Not specified,Bengaluru,"fever, cough, runny nose, red eyes and widespread rash",2 days,Moderate,Measles,General Medicine / Infectious Disease
+SHD0387,Ishaan,21,Female,Pune,"nasal blockage, facial tenderness and headache",4 days,Mild,Sinusitis,ENT
+SHD0195,Ira,70,Not specified,Kochi,recurrent severe headache with nausea,8 hours,High,Migraine,Neurology
+SHD0371,Sana,23,Female,Mumbai,"swollen painful cheeks, fever and pain while chewing",2 days,Moderate,Mumps,General Medicine
+SHD0325,Arjun,46,Female,Mumbai,eye redness with sticky discharge and irritation,2 days,Moderate,Conjunctivitis,Ophthalmology
+SHD0209,Rohan,80,Female,Kochi,abdominal pain moving toward the lower right side with nausea,6 hours,High,Appendicitis,Emergency / General Surgery
+SHD0323,Dev,44,Male,Kochi,upper abdominal burning and acidic taste in mouth,After meals,Mild,Acid Reflux,Gastroenterology
+SHD0135,Vihaan,53,Not specified,Mumbai,throbbing headache with nausea and sensitivity to light,8 hours,Moderate,Migraine,Neurology
+SHD0368,Vihaan,80,Female,Bengaluru,"fatigue, nausea, abdominal discomfort and yellowing of eyes",1 week,High,Hepatitis A,Gastroenterology
+SHD0361,Priya,41,Male,Mumbai,"fever with chills, sweating, headache and body aches; symptoms have been recurring",2 days,High,Malaria,General Medicine / Infectious Disease
+SHD0193,Nisha,75,Female,Bengaluru,"runny nose, sneezing, sore throat and mild cough; symptoms affect daily activities",2 days,Mild,Common Cold,General Medicine
+SHD0317,Ananya,63,Female,Hyderabad,"loose stools, abdominal discomfort and nausea; symptoms began recently",3 days,High,Gastroenteritis,General Medicine
+SHD0061,Rahul,20,Male,Hyderabad,"fever, nausea and muscle pain after mosquito exposure",3 days,Moderate,Malaria,General Medicine / Infectious Disease
+SHD0221,Kabir,61,Male,Hyderabad,painful swelling near the jaw and tiredness,1 week,Moderate,Mumps,General Medicine
+SHD0375,Aditi,36,Not specified,Jaipur,one-sided headache with visual sensitivity; symptoms affect daily activities,1 day,Moderate,Migraine,Neurology
+SHD0321,Vihaan,33,Not specified,Jaipur,urinary urgency with cloudy urine and pelvic discomfort,1 day,High,Urinary Tract Infection,Urology / General Medicine
+SHD0373,Ira,46,Male,Mumbai,"nasal congestion, sneezing and a mild headache",3 days,Moderate,Common Cold,General Medicine
+SHD0123,Kavya,44,Female,Kochi,"persistent fever, weakness, headache and abdominal discomfort",4 days,High,Typhoid Fever,General Medicine / Infectious Disease
+SHD0141,Kavya,37,Male,Chennai,painful urination and frequent small amounts of urine,1 day,High,Urinary Tract Infection,Urology / General Medicine
+SHD0321,Vihaan,33,Not specified,Jaipur,urinary urgency with cloudy urine and pelvic discomfort,1 day,High,Urinary Tract Infection,Urology / General Medicine
+SHD0191,Meera,75,Female,Bengaluru,"swollen painful cheeks, fever and pain while chewing",1 week,Moderate,Mumps,General Medicine
+SHD0082,Kabir,67,Male,Jaipur,"tiredness, dizziness and reduced exercise tolerance",Unknown,Mild,Iron Deficiency Anemia,General Medicine / Hematology
+SHD0363,Kavya,66,Female,Hyderabad,gradually increasing fever with fatigue,4 days,High,Typhoid Fever,General Medicine / Infectious Disease
+SHD0121,Arjun,36,Female,Kochi,"fever with chills, sweating, headache and body aches",5 days,Moderate,Malaria,General Medicine / Infectious Disease
+SHD0204,Aditi,63,Not specified,Delhi,inflamed itchy rash after contact with a new soap; symptoms have been recurring,Recurring,Moderate,Dermatitis,Dermatology
+SHD0199,Ananya,45,Female,Chennai,"increased thirst, frequent urination and fatigue",Unknown,Moderate,Type 2 Diabetes,Endocrinology
+SHD0205,Rohan,54,Female,Pune,red itchy eye with watery discharge,2 days,Moderate,Conjunctivitis,Ophthalmology
+SHD0110,Kavya,68,Female,Kochi,headache with a raised blood pressure reading,Several weeks,Mild,Hypertension,Cardiology / General Medicine
+SHD0292,Reyansh,55,Not specified,Bengaluru,"fatigue, weakness, pale skin and shortness of breath on exertion; symptoms began recently",Several months,Mild,Iron Deficiency Anemia,General Medicine / Hematology
+SHD0313,Priya,55,Male,Hyderabad,"runny nose, sneezing, sore throat and mild cough",2 days,Moderate,Common Cold,General Medicine
+SHD0283,Meera,55,Not specified,Mumbai,"runny nose, sneezing, sore throat and mild cough; symptoms began recently",5 days,Moderate,Common Cold,General Medicine
+SHD0202,Aarav,24,Female,Jaipur,"fatigue, weakness, pale skin and shortness of breath on exertion",Several months,Moderate,Iron Deficiency Anemia,General Medicine / Hematology
+SHD0236,Tara,49,Male,Jaipur,mild to moderate head pressure after a stressful day,2 hours,Moderate,Tension Headache,General Medicine
+SHD0315,Aarav,51,Female,Bengaluru,throbbing headache with nausea and sensitivity to light; symptoms began recently,4 hours,High,Migraine,Neurology
+SHD0115,Dev,49,Not specified,Pune,watery red eyes with a gritty sensation,1 day,Mild,Conjunctivitis,Ophthalmology
+SHD0312,Meera,51,Male,Kochi,long-lasting cough with difficulty catching breath,1 week,High,Whooping Cough,Pulmonology
+SHD0127,Ananya,58,Male,Hyderabad,sudden watery diarrhea with muscle cramps,6 hours,High,Cholera,Emergency / General Medicine
+SHD0148,Ira,25,Male,Pune,"cough, chills, fatigue and pain when breathing deeply",5 days,Moderate,Pneumonia,Pulmonology
+SHD0205,Rohan,54,Female,Pune,red itchy eye with watery discharge,2 days,Moderate,Conjunctivitis,Ophthalmology
+SHD0081,Arjun,27,Not specified,Bengaluru,"burning urination, frequent urge to urinate and lower abdominal discomfort",1 day,High,Urinary Tract Infection,Urology / General Medicine
+SHD0378,Sana,76,Male,Bengaluru,"wheezing, shortness of breath and chest tightness",Recurring,Moderate,Asthma,Pulmonology
+SHD0393,Rahul,41,Male,Mumbai,"persistent fever, weakness, headache and abdominal discomfort; symptoms began recently",1 week,Moderate,Typhoid Fever,General Medicine / Infectious Disease
+SHD0125,Reyansh,76,Not specified,Pune,"runny nose, headache and fatigue after exposure",4 days,Moderate,COVID-19,General Medicine
+SHD0336,Diya,26,Female,Pune,fever with persistent pain in hands and feet,1 week,Moderate,Chikungunya,General Medicine / Infectious Disease
+SHD0240,Aditi,69,Female,Chennai,waves of flank pain with nausea and blood in urine,2 hours,Moderate,Kidney Stone,Urology
+SHD0158,Kabir,61,Not specified,Bengaluru,nausea with upper abdominal discomfort and jaundice,2 weeks,High,Hepatitis A,Gastroenterology
+SHD0384,Aditya,47,Male,Mumbai,inflamed itchy rash after contact with a new soap; symptoms affect daily activities,2 days,Mild,Dermatitis,Dermatology
+SHD0323,Dev,44,Male,Kochi,upper abdominal burning and acidic taste in mouth,After meals,Mild,Acid Reflux,Gastroenterology
+SHD0209,Rohan,80,Female,Kochi,abdominal pain moving toward the lower right side with nausea,6 hours,High,Appendicitis,Emergency / General Surgery
+SHD0209,Rohan,80,Female,Kochi,abdominal pain moving toward the lower right side with nausea,6 hours,High,Appendicitis,Emergency / General Surgery
+SHD0377,Vihaan,21,Not specified,Chennai,"loose stools, abdominal discomfort and nausea",2 days,Moderate,Gastroenteritis,General Medicine
+SHD0002,Kabir,30,Male,Bengaluru,"fever with muscle pain, rash and marked fatigue",1 day,High,Dengue,General Medicine / Infectious Disease
+SHD0206,Priya,21,Male,Jaipur,band-like headache with tight shoulder muscles; symptoms have been recurring,1 day,Moderate,Tension Headache,General Medicine
+SHD0208,Arjun,58,Female,Delhi,"cough, chills, fatigue and pain when breathing deeply",5 days,Moderate,Pneumonia,Pulmonology
+SHD0314,Rahul,30,Male,Bengaluru,"sudden fever, body aches, chills and dry cough",4 days,High,Influenza,General Medicine
+SHD0306,Kabir,78,Male,Jaipur,fever with severe joint pain and skin rash,1 week,High,Chikungunya,General Medicine / Infectious Disease
+SHD0078,Arjun,62,Not specified,Kochi,"recurrent cough and wheezing, especially at night",1 day,Mild,Asthma,Pulmonology
+SHD0390,Ira,55,Male,Delhi,sharp back-side pain and urinary discomfort,6 hours,High,Kidney Stone,Urology
+SHD0298,Kavya,52,Not specified,Kochi,fever with productive cough and difficulty breathing,1 week,Moderate,Pneumonia,Pulmonology
+SHD0207,Kabir,44,Male,Chennai,pain around cheeks with congestion and reduced sense of smell,2 weeks,Mild,Sinusitis,ENT
+SHD0197,Rohan,30,Female,Bengaluru,"vomiting, diarrhea and stomach pain; symptoms began recently",3 days,Moderate,Gastroenteritis,General Medicine
+SHD0239,Priya,40,Female,Chennai,worsening lower-right abdominal pain and loss of appetite,6 hours,High,Appendicitis,Emergency / General Surgery
+SHD0102,Meera,27,Not specified,Kochi,long-lasting cough with difficulty catching breath,1 week,Moderate,Whooping Cough,Pulmonology
+SHD0200,Ira,64,Female,Mumbai,repeated high blood pressure readings during check-ups,Several weeks,Mild,Hypertension,Cardiology / General Medicine
+SHD0375,Aditi,36,Not specified,Jaipur,one-sided headache with visual sensitivity; symptoms affect daily activities,1 day,Moderate,Migraine,Neurology
+SHD0001,Reyansh,29,Male,Mumbai,recurring fever episodes with chills and fatigue; symptoms have been recurring,5 days,Moderate,Malaria,General Medicine / Infectious Disease
+SHD0236,Tara,49,Male,Jaipur,mild to moderate head pressure after a stressful day,2 hours,Moderate,Tension Headache,General Medicine
+SHD0233,Aarav,33,Female,Hyderabad,burning sensation in chest after meals and sour taste,1 week,Moderate,Acid Reflux,Gastroenterology
+SHD0151,Reyansh,77,Female,Jaipur,"fever, nausea and muscle pain after mosquito exposure",5 days,High,Malaria,General Medicine / Infectious Disease
+SHD0319,Meera,54,Not specified,Kochi,"increased thirst, frequent urination and fatigue",Several months,Mild,Type 2 Diabetes,Endocrinology
+SHD0007,Arjun,68,Not specified,Bengaluru,frequent watery stools and intense thirst,2 days,High,Cholera,Emergency / General Medicine
+SHD0382,Vihaan,75,Female,Hyderabad,"fatigue, weakness, pale skin and shortness of breath on exertion; symptoms affect daily activities",Several months,Moderate,Iron Deficiency Anemia,General Medicine / Hematology
+SHD0231,Meera,34,Female,Jaipur,"burning urination, frequent urge to urinate and lower abdominal discomfort",2 days,High,Urinary Tract Infection,Urology / General Medicine
+SHD0314,Rahul,30,Male,Bengaluru,"sudden fever, body aches, chills and dry cough",4 days,High,Influenza,General Medicine
+SHD0317,Ananya,63,Female,Hyderabad,"loose stools, abdominal discomfort and nausea; symptoms began recently",3 days,High,Gastroenteritis,General Medicine
+SHD0277,Nisha,62,Male,Delhi,"profuse watery diarrhea, vomiting and dehydration",1 day,High,Cholera,Emergency / General Medicine
+SHD0315,Aarav,51,Female,Bengaluru,throbbing headache with nausea and sensitivity to light; symptoms began recently,4 hours,High,Migraine,Neurology
+SHD0374,Ananya,46,Female,Bengaluru,"sudden fever, body aches, chills and dry cough",1 day,Moderate,Influenza,General Medicine
+SHD0245,Arjun,26,Not specified,Jaipur,"fever, dry cough, tiredness and loss of smell",4 days,Moderate,COVID-19,General Medicine
+SHD0378,Sana,76,Male,Bengaluru,"wheezing, shortness of breath and chest tightness",Recurring,Moderate,Asthma,Pulmonology
+SHD0239,Priya,40,Female,Chennai,worsening lower-right abdominal pain and loss of appetite,6 hours,High,Appendicitis,Emergency / General Surgery
+SHD0340,Nisha,44,Male,Jaipur,"cough, red eyes and rash starting on the face; symptoms began recently",2 days,Moderate,Measles,General Medicine / Infectious Disease
+SHD0230,Diya,58,Female,Pune,repeated high blood pressure readings during check-ups,New finding,Moderate,Hypertension,Cardiology / General Medicine
+SHD0199,Ananya,45,Female,Chennai,"increased thirst, frequent urination and fatigue",Unknown,Moderate,Type 2 Diabetes,Endocrinology
+SHD0226,Tara,50,Male,Hyderabad,runny nose and itchy throat after dust exposure,1 week,Mild,Allergic Rhinitis,ENT / Allergy
+SHD0312,Meera,51,Male,Kochi,long-lasting cough with difficulty catching breath,1 week,High,Whooping Cough,Pulmonology
+SHD0142,Ananya,68,Not specified,Jaipur,"weakness, headaches and pale appearance; symptoms affect daily activities",Unknown,Mild,Iron Deficiency Anemia,General Medicine / Hematology
+SHD0391,Sana,19,Male,Kochi,"fever, nausea and muscle pain after mosquito exposure",5 days,Moderate,Malaria,General Medicine / Infectious Disease
+SHD0285,Dev,73,Female,Delhi,one-sided headache with visual sensitivity,4 hours,Moderate,Migraine,Neurology
+SHD0294,Ishaan,78,Not specified,Jaipur,dry cracked skin and local irritation,1 week,Moderate,Dermatitis,Dermatology
+SHD0034,Aditi,70,Female,Bengaluru,"persistent cough, night sweats, weight loss and fever; symptoms began recently",3 weeks,High,Tuberculosis,Pulmonology
+SHD0325,Arjun,46,Female,Mumbai,eye redness with sticky discharge and irritation,2 days,Moderate,Conjunctivitis,Ophthalmology
+SHD0065,Diya,66,Female,Kochi,"fever, dry cough, tiredness and loss of smell",1 week,High,COVID-19,General Medicine
+SHD0085,Rahul,40,Male,Jaipur,red itchy eye with watery discharge; symptoms affect daily activities,1 week,Mild,Conjunctivitis,Ophthalmology
+SHD0385,Ira,21,Male,Hyderabad,eye redness with sticky discharge and irritation,1 day,Mild,Conjunctivitis,Ophthalmology
+SHD0293,Sana,44,Male,Mumbai,upper abdominal burning and acidic taste in mouth,After meals,Mild,Acid Reflux,Gastroenterology
+SHD0395,Sana,45,Male,Jaipur,"sore throat, cough, fever and body aches",4 days,Moderate,COVID-19,General Medicine
+SHD0131,Kabir,23,Male,Mumbai,"swollen painful cheeks, fever and pain while chewing",1 week,Moderate,Mumps,General Medicine
+SHD0196,Ananya,39,Not specified,Bengaluru,runny nose and itchy throat after dust exposure,1 day,Mild,Allergic Rhinitis,ENT / Allergy
+SHD0384,Aditya,47,Male,Mumbai,inflamed itchy rash after contact with a new soap; symptoms affect daily activities,2 days,Mild,Dermatitis,Dermatology
+SHD0329,Diya,36,Not specified,Bengaluru,abdominal pain moving toward the lower right side with nausea; symptoms have been recurring,6 hours,High,Appendicitis,Emergency / General Surgery
+SHD0381,Aditya,47,Female,Mumbai,urinary urgency with cloudy urine and pelvic discomfort,2 days,Moderate,Urinary Tract Infection,Urology / General Medicine
+SHD0386,Diya,39,Female,Jaipur,dull pressure on both sides of the head and neck tightness; symptoms affect daily activities,6 hours,Moderate,Tension Headache,General Medicine
+SHD0134,Vihaan,54,Male,Bengaluru,"high fever, fatigue, headache and muscle pain",2 days,High,Influenza,General Medicine
+SHD0190,Rohan,44,Not specified,Kochi,"cough, red eyes and rash starting on the face",4 days,High,Measles,General Medicine / Infectious Disease
+SHD0003,Aarav,44,Male,Kochi,fever with loss of appetite and digestive discomfort,1 week,High,Typhoid Fever,General Medicine / Infectious Disease
+SHD0322,Rahul,47,Male,Chennai,"tiredness, dizziness and reduced exercise tolerance",Several months,Mild,Iron Deficiency Anemia,General Medicine / Hematology
+SHD0320,Reyansh,21,Male,Mumbai,repeated high blood pressure readings during check-ups,New finding,Moderate,Hypertension,Cardiology / General Medicine
+SHD0374,Ananya,46,Female,Bengaluru,"sudden fever, body aches, chills and dry cough",1 day,Moderate,Influenza,General Medicine
+SHD0101,Rahul,46,Not specified,Bengaluru,jaw swelling with headache and low fever,2 days,Moderate,Mumps,General Medicine
+SHD0243,Diya,42,Male,Delhi,gradually increasing fever with fatigue; symptoms began recently,4 days,High,Typhoid Fever,General Medicine / Infectious Disease
+SHD0240,Aditi,69,Female,Chennai,waves of flank pain with nausea and blood in urine,2 hours,Moderate,Kidney Stone,Urology
+SHD0222,Meera,50,Male,Chennai,persistent coughing spells followed by vomiting,2 weeks,High,Whooping Cough,Pulmonology
+SHD0063,Aditi,24,Female,Hyderabad,"persistent fever, weakness, headache and abdominal discomfort",1 week,High,Typhoid Fever,General Medicine / Infectious Disease
+SHD0071,Ira,73,Male,Kochi,jaw swelling with headache and low fever,2 days,Moderate,Mumps,General Medicine
+SHD0370,Priya,67,Male,Mumbai,"fever, cough, runny nose, red eyes and widespread rash",4 days,High,Measles,General Medicine / Infectious Disease
+SHD0380,Ananya,35,Male,Bengaluru,repeated high blood pressure readings during check-ups,New finding,Mild,Hypertension,Cardiology / General Medicine
+SHD0204,Aditi,63,Not specified,Delhi,inflamed itchy rash after contact with a new soap; symptoms have been recurring,Recurring,Moderate,Dermatitis,Dermatology
+SHD0108,Arjun,24,Female,Mumbai,breathlessness and chest tightness after exercise,1 day,Moderate,Asthma,Pulmonology
+SHD0194,Ishaan,74,Male,Mumbai,"fever, sore throat, cough and marked tiredness",4 days,Moderate,Influenza,General Medicine
+SHD0398,Ananya,29,Not specified,Chennai,"fatigue, nausea, abdominal discomfort and yellowing of eyes; symptoms affect daily activities",3 weeks,Moderate,Hepatitis A,Gastroenterology
+SHD0118,Arjun,73,Male,Chennai,"cough, fever, chest discomfort and shortness of breath",1 week,High,Pneumonia,Pulmonology
+SHD0031,Tara,50,Not specified,Delhi,"fever with chills, sweating, headache and body aches",2 days,High,Malaria,General Medicine / Infectious Disease
+SHD0037,Reyansh,38,Female,Bengaluru,frequent watery stools and intense thirst,1 day,High,Cholera,Emergency / General Medicine
+SHD0318,Ananya,29,Not specified,Mumbai,"recurrent cough and wheezing, especially at night",1 day,High,Asthma,Pulmonology
+SHD0113,Aarav,78,Male,Jaipur,heartburn when lying down and regurgitation,1 week,Mild,Acid Reflux,Gastroenterology
+SHD0198,Dev,18,Male,Chennai,breathlessness and chest tightness after exercise,Recurring,Moderate,Asthma,Pulmonology
+SHD0219,Aarav,57,Not specified,Chennai,itchy rash appearing in crops with mild fever; symptoms have been recurring,3 days,Mild,Chickenpox,Dermatology / General Medicine
+SHD0080,Ira,25,Male,Bengaluru,headache with a raised blood pressure reading; symptoms began recently,New finding,Mild,Hypertension,Cardiology / General Medicine
+SHD0149,Reyansh,28,Male,Delhi,abdominal pain moving toward the lower right side with nausea,12 hours,High,Appendicitis,Emergency / General Surgery
+SHD0301,Ananya,44,Female,Bengaluru,"fever with chills, sweating, headache and body aches",2 days,Moderate,Malaria,General Medicine / Infectious Disease
+SHD0036,Vihaan,57,Not specified,Mumbai,fever with severe joint pain and skin rash,1 week,High,Chikungunya,General Medicine / Infectious Disease
+SHD0326,Kavya,29,Not specified,Chennai,mild to moderate head pressure after a stressful day,6 hours,Mild,Tension Headache,General Medicine
+SHD0198,Dev,18,Male,Chennai,breathlessness and chest tightness after exercise,Recurring,Moderate,Asthma,Pulmonology
+SHD0086,Rohan,30,Female,Hyderabad,mild to moderate head pressure after a stressful day,2 hours,Moderate,Tension Headache,General Medicine
+SHD0091,Ishaan,78,Male,Bengaluru,recurring fever episodes with chills and fatigue,5 days,Moderate,Malaria,General Medicine / Infectious Disease
+SHD0330,Sana,21,Not specified,Bengaluru,severe side or back pain that may spread toward the groin,6 hours,High,Kidney Stone,Urology
+SHD0233,Aarav,33,Female,Hyderabad,burning sensation in chest after meals and sour taste,1 week,Moderate,Acid Reflux,Gastroenterology
+SHD0208,Arjun,58,Female,Delhi,"cough, chills, fatigue and pain when breathing deeply",5 days,Moderate,Pneumonia,Pulmonology
+SHD0156,Dev,60,Not specified,Jaipur,fever with persistent pain in hands and feet,1 week,Moderate,Chikungunya,General Medicine / Infectious Disease
+SHD0040,Ira,33,Not specified,Kochi,high fever followed by a red skin rash,4 days,Moderate,Measles,General Medicine / Infectious Disease
+SHD0324,Ira,35,Female,Jaipur,inflamed itchy rash after contact with a new soap,2 days,Moderate,Dermatitis,Dermatology
+SHD0147,Aarav,66,Male,Mumbai,pain around cheeks with congestion and reduced sense of smell; symptoms began recently,1 week,Moderate,Sinusitis,ENT
+SHD0192,Diya,48,Male,Chennai,repeated severe coughing fits with a whooping sound,2 weeks,High,Whooping Cough,Pulmonology
+SHD0295,Vihaan,76,Female,Bengaluru,watery red eyes with a gritty sensation,1 week,Moderate,Conjunctivitis,Ophthalmology
+SHD0311,Kabir,18,Female,Bengaluru,jaw swelling with headache and low fever; symptoms have been recurring,1 week,Moderate,Mumps,General Medicine
+SHD0321,Vihaan,33,Not specified,Jaipur,urinary urgency with cloudy urine and pelvic discomfort,1 day,High,Urinary Tract Infection,Urology / General Medicine
+SHD0328,Kabir,25,Male,Pune,"cough, chills, fatigue and pain when breathing deeply",5 days,Moderate,Pneumonia,Pulmonology
+SHD0390,Ira,55,Male,Delhi,sharp back-side pain and urinary discomfort,6 hours,High,Kidney Stone,Urology
+SHD0318,Ananya,29,Not specified,Mumbai,"recurrent cough and wheezing, especially at night",1 day,High,Asthma,Pulmonology
+SHD0184,Ishaan,58,Female,Chennai,"persistent cough, night sweats, weight loss and fever",1 month,High,Tuberculosis,Pulmonology
+SHD0288,Aditi,43,Not specified,Bengaluru,"recurrent cough and wheezing, especially at night",Recurring,Mild,Asthma,Pulmonology
+SHD0137,Kabir,18,Not specified,Mumbai,"loose stools, abdominal discomfort and nausea",1 day,High,Gastroenteritis,General Medicine
+SHD0038,Rahul,79,Male,Hyderabad,nausea with upper abdominal discomfort and jaundice; symptoms began recently,3 weeks,High,Hepatitis A,Gastroenterology
+SHD0312,Meera,51,Male,Kochi,long-lasting cough with difficulty catching breath,1 week,High,Whooping Cough,Pulmonology
+SHD0248,Aditi,43,Female,Jaipur,"loss of appetite, dark urine and jaundice",2 weeks,High,Hepatitis A,Gastroenterology
+SHD0107,Ananya,31,Not specified,Mumbai,"vomiting, diarrhea and stomach pain; symptoms have been recurring",2 days,Moderate,Gastroenteritis,General Medicine
+SHD0005,Ira,74,Male,Chennai,"sore throat, cough, fever and body aches",2 days,Mild,COVID-19,General Medicine
+SHD0138,Meera,47,Female,Chennai,"recurrent cough and wheezing, especially at night",Recurring,High,Asthma,Pulmonology
+SHD0296,Reyansh,37,Not specified,Jaipur,mild to moderate head pressure after a stressful day; symptoms have been recurring,6 hours,Mild,Tension Headache,General Medicine
+SHD0322,Rahul,47,Male,Chennai,"tiredness, dizziness and reduced exercise tolerance",Several months,Mild,Iron Deficiency Anemia,General Medicine / Hematology
+SHD0271,Kabir,43,Male,Kochi,recurring fever episodes with chills and fatigue,2 days,High,Malaria,General Medicine / Infectious Disease
+SHD0196,Ananya,39,Not specified,Bengaluru,runny nose and itchy throat after dust exposure,1 day,Mild,Allergic Rhinitis,ENT / Allergy
+SHD0388,Meera,44,Male,Pune,"cough, fever, chest discomfort and shortness of breath",1 week,Moderate,Pneumonia,Pulmonology
+SHD0144,Ira,73,Not specified,Mumbai,dry cracked skin and local irritation,1 week,Mild,Dermatitis,Dermatology
+SHD0220,Vihaan,25,Not specified,Chennai,"cough, red eyes and rash starting on the face",4 days,Moderate,Measles,General Medicine / Infectious Disease
+SHD0128,Ishaan,33,Female,Pune,nausea with upper abdominal discomfort and jaundice,3 weeks,High,Hepatitis A,Gastroenterology
+SHD0033,Dev,71,Not specified,Kochi,gradually increasing fever with fatigue; symptoms have been recurring,1 week,Moderate,Typhoid Fever,General Medicine / Infectious Disease
+SHD0225,Meera,72,Female,Delhi,one-sided headache with visual sensitivity; symptoms affect daily activities,1 day,Moderate,Migraine,Neurology
+SHD0206,Priya,21,Male,Jaipur,band-like headache with tight shoulder muscles; symptoms have been recurring,1 day,Moderate,Tension Headache,General Medicine
+SHD0241,Rahul,48,Female,Chennai,"fever with chills, sweating, headache and body aches; symptoms began recently",5 days,Moderate,Malaria,General Medicine / Infectious Disease
+SHD0208,Arjun,58,Female,Delhi,"cough, chills, fatigue and pain when breathing deeply",5 days,Moderate,Pneumonia,Pulmonology
+SHD0122,Rohan,29,Male,Mumbai,"high fever, severe headache, pain behind the eyes and joint pain",1 day,High,Dengue,General Medicine / Infectious Disease
+SHD0235,Rahul,20,Not specified,Pune,red itchy eye with watery discharge,1 day,Moderate,Conjunctivitis,Ophthalmology
+SHD0302,Reyansh,45,Male,Kochi,"fever with muscle pain, rash and marked fatigue",1 day,Moderate,Dengue,General Medicine / Infectious Disease
+SHD0124,Ishaan,30,Female,Hyderabad,cough lasting several weeks with fatigue and loss of appetite,Several months,Moderate,Tuberculosis,Pulmonology
+SHD0337,Arjun,43,Not specified,Chennai,"profuse watery diarrhea, vomiting and dehydration",1 day,High,Cholera,Emergency / General Medicine
+SHD0289,Aditya,46,Female,Jaipur,"frequent urination, increased hunger and blurred vision",Unknown,Moderate,Type 2 Diabetes,Endocrinology
+SHD0366,Reyansh,24,Not specified,Mumbai,fever with persistent pain in hands and feet,1 week,High,Chikungunya,General Medicine / Infectious Disease
+SHD0297,Ananya,78,Male,Chennai,"nasal blockage, facial tenderness and headache",2 weeks,Mild,Sinusitis,ENT
+SHD0224,Ananya,68,Female,Kochi,"sudden fever, body aches, chills and dry cough; symptoms affect daily activities",2 days,High,Influenza,General Medicine
+SHD0073,Reyansh,32,Female,Kochi,"runny nose, sneezing, sore throat and mild cough; symptoms affect daily activities",3 days,Mild,Common Cold,General Medicine
+SHD0222,Meera,50,Male,Chennai,persistent coughing spells followed by vomiting,2 weeks,High,Whooping Cough,Pulmonology
+SHD0136,Nisha,71,Male,Chennai,"itchy eyes, nasal congestion and repeated sneezing",1 week,Moderate,Allergic Rhinitis,ENT / Allergy
+SHD0068,Aditi,67,Male,Chennai,"fatigue, nausea, abdominal discomfort and yellowing of eyes",2 weeks,Moderate,Hepatitis A,Gastroenterology
+SHD0339,Kavya,67,Not specified,Chennai,red spots that develop into itchy blisters,1 week,Mild,Chickenpox,Dermatology / General Medicine
+SHD0397,Kabir,60,Male,Kochi,"profuse watery diarrhea, vomiting and dehydration",6 hours,High,Cholera,Emergency / General Medicine
+SHD0160,Meera,47,Male,Bengaluru,"fever, cough, runny nose, red eyes and widespread rash",2 days,Moderate,Measles,General Medicine / Infectious Disease
+SHD0326,Kavya,29,Not specified,Chennai,mild to moderate head pressure after a stressful day,6 hours,Mild,Tension Headache,General Medicine
+SHD0157,Aarav,34,Male,Jaipur,"profuse watery diarrhea, vomiting and dehydration",1 day,High,Cholera,Emergency / General Medicine
